@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "build_date": "2026-04-05",
+  "description": "Provisioning firmware with EMQX broker support, OTA enabled, SIZE optimization",
+  "url": "https://raw.githubusercontent.com/hexa64root/Temperature-Logger-Bin/main/releases/v1.0.0.bin",
+  "sha256": "94a6d392063eaaaf31de0a536ef499ff19bb6116c496064de4907027d0f1d6cd",
+  "size_bytes": 1518585,
+  "flash_usage": "74.7%",
+  "features": [
+    "WiFi provisioning via BLE",
+    "MQTT heartbeat (60s)",
+    "Temperature sensor DS18B20",
+    "OTA over-the-air updates",
+    "Factory reset capability"
+  ]
+}
